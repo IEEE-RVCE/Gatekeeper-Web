@@ -1,7 +1,10 @@
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
-
+/**
+ * Home page
+ * @returns Home page components
+ */
 export default function Home() {
   return (
     <main style={{padding: '1rem'}}>
